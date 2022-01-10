@@ -1,6 +1,5 @@
-<p align="center">
-### 👋 Hi there! I'm studying for JavaScript Full-stack Dev. with react and node.js 🚀
-### Now, I think my grade is beginner. So, I will continue to work hard to achieve my goal 🌈
+<h3 align="center">👋 Hi there! I'm studying for JavaScript Full-stack Dev. with react and node.js 🚀</h3>
+<h3 align="center">Now, I think my grade is beginner. So, I will continue to work hard to achieve my goal 🌈</h3>
 </p>
 
 ### Connect
