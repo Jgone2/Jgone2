@@ -9,9 +9,14 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 <a href="mailto:jgoneit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgoneit@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
+<br /><br />
 
-### ⛳️ My STATS
+<h3 align="center">⛳️ My STATS</h3>
+<div align="center">
 ![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)
+</div>
 
-### 📌 Most Used
+<h3 align="center">📌 Most Used</h3>
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
