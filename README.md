@@ -2,7 +2,6 @@
 <p align="center"> I'm studying for JavaScript Full-stack Dev. with react and node.js 🚀<br />
 Now, I think my grade is beginner. So, I will continue to work hard to achieve my goal 🌈
 </p>
-<br />
 
 <h3 align="center">💻 Connect Me 💻</h3>
 <p align="center">
@@ -10,7 +9,6 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 <a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 <a href="mailto:jgoneit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgoneit@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<br /><br />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -19,7 +17,6 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br />
 </p>
-<br />
 
 <h3 align="center">⛳️ My STATS ⛳️</h3>
 <div align="center">
