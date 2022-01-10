@@ -4,7 +4,7 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 </p>
 <br />
 
-<h3 align="center">💻 Connect Me</h3>
+<h3 align="center">💻 Connect Me 💻</h3>
 <p align="center">
 <a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=flat-square&logo=Vectorlogozone&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
@@ -12,7 +12,7 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 </p>
 <br /><br />
 
-<h3 align="center"> 📚 Tech Stack</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -21,13 +21,13 @@ Now, I think my grade is beginner. So, I will continue to work hard to achieve m
 </p>
 <br />
 
-<h3 align="center">⛳️ My STATS</h3>
+<h3 align="center">⛳️ My STATS ⛳️</h3>
 <div align="center">
   
 ![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)
 </div>
 
-<h3 align="center">📌 Most Used</h3>
+<h3 align="center">📌 Most Used 📌</h3>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
