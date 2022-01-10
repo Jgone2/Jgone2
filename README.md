@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jaegon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+<div align="center>
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jaegon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=6495ED)
+</div>            
+            
 <h3 align="center">👋 Hi there!</h3>
 <p align="center"> I'm studying for JavaScript Full-stack Dev. with react and node.js 🚀<br />
 Now, I think my grade is beginner. So, I will continue to work hard to achieve my goal 🌈
