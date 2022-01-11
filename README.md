@@ -5,7 +5,7 @@
             
 <h3 align="center">👋 Hi there!</h3>
 <p align="center"> I'm studying for JavaScript Full-stack Dev. with react and node.js 🚀<br />
-Now, I am a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
+I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
 Let's do that 🔥
 </p><br />
 
