@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text="For%20JS DEV!"&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20JS%20DEV!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
             
 </div>            
             
