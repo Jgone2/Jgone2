@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20FullStack!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20Java Dev&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
             
 </div>            
             
 <h3 align="center">👋 Hi there!</h3>
-<p align="center"> I'm studying for Full-stack Dev. with react and Spring  🚀<br />
+<p align="center"> I'm studying for Java Dev. with react and Spring  🚀<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
 Let's do that 🔥
 </p><br />
