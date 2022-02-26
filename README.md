@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20Java%20Dev!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20BackEnd%20Dev!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
             
 </div>            
             
 <h3 align="center">👋 Hi there!</h3>
-<p align="center"> I'm studying for Java Dev. with Spring  🚀<br />
+<p align="center"> I'm studying for BackEnd Dev 🚀<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
 Let's do that 🔥
 </p><br />
@@ -23,6 +23,7 @@ Let's do that 🔥
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><br />
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><br />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p><br />
 
