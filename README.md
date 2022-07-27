@@ -31,5 +31,5 @@ Let's do that 🔥
 <div align="center">
   
 ![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
