@@ -27,14 +27,9 @@ Let's do that 🔥
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p><br />
 
-<h3 align="center">⛳️ My STATS ⛳️</h3>
+<h3 align="center">⛳️ My Git ⛳️</h3>
 <div align="center">
   
-![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)
-</div><br />
-
-<h3 align="center">📌 Most Used 📌</h3>
-<div align="center">
-  
+![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
