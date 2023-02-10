@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20Java%20Dev!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
             
-</div>            
-            
-## 🧐 Hi there!
+</div><br /><br />            
+## 🧐 Hello, I'm Jaegon studying to become a backend developer.
 I'm studying for Java Dev. with Spring 🚀<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
 Let's do that 🔥<br />
