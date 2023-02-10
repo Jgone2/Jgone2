@@ -1,11 +1,10 @@
 ## 🧐 Hello, I'm Jaegon studying to become a backend developer.
-I'm studying for Java Dev. with Spring 🚀<br />
-I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
-Let's do that 🔥<br />
+DaeChoong SoGaeGuel ThisThat - 🔥
+
 <br />
 
 ## 🧐 안녕하세요 백엔드 개발자를 목표로 공부중에 있는 서재곤입니다.
-대충 소개글 예정 이것저것 -
+대충 소개글 예정 이것저것 - 🔥
 
 <br />
 
