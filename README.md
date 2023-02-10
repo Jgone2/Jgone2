@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=For%20Java%20Dev!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=D8BFD8)
             
-</div><br /><br />            
+</div><br /><br />
+
 ## 🧐 Hello, I'm Jaegon studying to become a backend developer.
 I'm studying for Java Dev. with Spring 🚀<br />
 I'm still a beginner. So, I will continue to work hard to achieve my goal 🌈<br />
@@ -11,12 +12,6 @@ Let's do that 🔥<br />
 
 ## 🧐 안녕하세요 백엔드 개발자를 목표로 공부중에 있는 서재곤입니다.
 대충 소개글 예정 이것저것 -
-
-## 💻 Connect Me 💻
-<a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Vectorlogozone&logoColor=white"/></a>
-<a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:jgoneit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgoneit@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<br />
 
 ## 📚 Tech Stack 📚
 ### BE
@@ -33,7 +28,13 @@ Let's do that 🔥<br />
 ![BootStrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-</p><br />
+<br />
+
+## 💻 Connect Me 💻
+<a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Vectorlogozone&logoColor=white"/></a>
+<a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:jgoneit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgoneit@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<br />
 
 ## ⛳️ My Git ⛳️
 <div align="center">
