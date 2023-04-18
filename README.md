@@ -1,5 +1,5 @@
 ## 🧐 Hello, I'm Jaegon studying to become a backend developer.
-DaeChoong SoGaeGuel ThisThat - 🔥
+DaeChoong SoGaeGuel will ThisThat - 🔥
 
 <br />
 
