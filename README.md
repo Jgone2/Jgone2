@@ -1,13 +1,3 @@
-## 🧐 Hello, I'm Jaegon studying to become a backend developer.
-DaeChoong SoGaeGuel will ThisThat - 🔥
-
-<br />
-
-## 🧐 안녕하세요 백엔드 개발자를 목표로 공부중에 있습니다.
-대충 소개글 예정 이것저것 - 🔥
-
-<br />
-
 ## 📚 Tech Stack 📚
 ### BE
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
