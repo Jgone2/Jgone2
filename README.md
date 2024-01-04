@@ -1,10 +1,10 @@
 <div align="center">
 
 ## 💻 Tool 💻
-[![My Skills](https://skillicons.dev/icons?i=git,github,discord,notion,postman&perline=3)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,idea,discord,postman&perline=5)](https://skillicons.dev)
 
 ## 📚 Tech Stack 📚
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,html,sass,gradle,aws,docker,nginx&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,mysql,html,sass,aws,docker,nginx&perline=5)](https://skillicons.dev)
 
 ## 💻 Connect Me 💻
 <a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
