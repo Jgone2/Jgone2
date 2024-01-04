@@ -1,10 +1,13 @@
 <div align="center">
-  
+
+## 💻 Tool 💻
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,notion,intellij&perline=3)](https://skillicons.dev)
+
 ## 📚 Tech Stack 📚
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,git,docker,nginx,html,sass&perline=3)](https://skillicons.dev)
 
 ## 💻 Connect Me 💻
-<a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Vectorlogozone&logoColor=white"/></a>
+<a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/jgone2/" target="_blank"><img src="https://img.shields.io/badge/jgone2-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:jgoneit@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgoneit@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <br /><br />
