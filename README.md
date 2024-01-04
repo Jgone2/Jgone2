@@ -1,8 +1,7 @@
 <div align="center">
   
 ## 📚 Tech Stack 📚
-### BE
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,git,docker,nginx,html,sass&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,git,docker,nginx,html,sass&perline=3)](https://skillicons.dev)
 
 ## 💻 Connect Me 💻
 <a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Vectorlogozone&logoColor=white"/></a>
