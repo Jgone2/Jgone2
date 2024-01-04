@@ -1,3 +1,4 @@
+<div align="center">
 ## 📚 Tech Stack 📚
 ### BE
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -17,4 +18,5 @@
   
 ![Jgone2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jgone2&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jgone2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 </div>
