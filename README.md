@@ -4,7 +4,7 @@
 [![My Tools](https://skillicons.dev/icons?i=git,github,idea,discord,postman&perline=5)](https://skillicons.dev)
 
 ## 📚 Tech Stack 📚
-[![My Skills](https://skillicons.dev/icons?i=typescript,nest,java,spring,gradle,mysql,react,aws,docker,nginx,redis,elasticsearch&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nest,graphql,java,spring,gradle,mysql,react,aws,docker,nginx,redis,elasticsearch&perline=5)](https://skillicons.dev)
 
 ## 💻 Connect Me 💻
 <a href="https://velog.io/@jgone2" target="_blank"><img src="https://img.shields.io/badge/jgoneit.log-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
